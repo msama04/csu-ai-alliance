@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="CSU Artificial Intelligence Alliance at California State University, Chico." />
+  <title>CSU AI Alliance</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#home">
+      <div class="brand-mark">AI</div>
+      <div>
+        <strong>CSU AI Alliance</strong>
+        <span>California State University, Chico</span>
+      </div>
+    </a>
+    <button class="menu-btn" aria-label="Open navigation">☰</button>
+    <nav class="nav">
+      <a href="#about">About</a>
+      <a href="#activities">What We Do</a>
+      <a href="#events">Events</a>
+      <a href="#team">Team</a>
+      <a href="#join">Join</a>
+      <a href="#resources">Resources</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" id="home">
+      <div class="hero-inner">
+        <p class="eyebrow">California State University, Chico</p>
+        <h1>CSU Artificial<br>Intelligence Alliance</h1>
+        <p class="hero-tagline">Explore AI. Build Skills. Connect with Others.</p>
+        <p class="hero-copy">
+          A student community bringing together Chico State students to learn,
+          collaborate, and explore real-world applications of artificial intelligence.
+        </p>
+        <div class="button-row">
+          <a class="btn primary" href="#join">Join the Alliance</a>
+          <a class="btn secondary" href="#events">Upcoming Events</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section split" id="about">
+      <div>
+        <p class="eyebrow maroon">About Us</p>
+        <h2>Students. Ideas. Real Impact.</h2>
+        <p>
+          The CSU Artificial Intelligence Alliance is a student organization at
+          California State University, Chico dedicated to helping students explore
+          the opportunities and challenges of artificial intelligence.
+        </p>
+        <p>
+          We offer workshops, hands-on projects, discussions, and networking
+          opportunities. No prior AI experience is required — just curiosity and a desire to learn.
+        </p>
+      </div>
+      <div class="info-card">
+        <h3>Who can join?</h3>
+        <p>Any currently enrolled Chico State student interested in AI.</p>
+        <ul>
+          <li>Free membership</li>
+          <li>Open to all majors</li>
+          <li>No prior experience required</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="section soft" id="activities">
+      <p class="eyebrow maroon">What We Do</p>
+      <h2>Learn. Build. Connect.</h2>
+      <div class="card-grid five">
+        <article class="feature-card"><div class="icon">🧠</div><h3>AI Workshops</h3><p>Learn how to use AI tools and understand how they work.</p></article>
+        <article class="feature-card"><div class="icon">💻</div><h3>Hands-On Projects</h3><p>Experiment with AI and build practical projects with other students.</p></article>
+        <article class="feature-card"><div class="icon">💬</div><h3>Discussions</h3><p>Talk about new AI developments, opportunities, limitations, and responsible use.</p></article>
+        <article class="feature-card"><div class="icon">🤝</div><h3>Networking</h3><p>Meet students, faculty, and professionals interested in AI.</p></article>
+        <article class="feature-card"><div class="icon">🎓</div><h3>Career Development</h3><p>Explore how AI is changing careers and the skills students can build now.</p></article>
+      </div>
+    </section>
+
+    <section class="section" id="events">
+      <p class="eyebrow maroon">Upcoming Events</p>
+      <h2>What’s Next?</h2>
+      <div class="card-grid three" id="eventCards"></div>
+    </section>
+
+    <section class="join-banner" id="join">
+      <div>
+        <p class="eyebrow light">Get Involved</p>
+        <h2>Be Part of What’s Next.</h2>
+        <p>
+          Membership is free and open to currently enrolled Chico State students.
+          Scan the QR code or use the button to join.
+        </p>
+        <a class="btn white" id="joinButton" href="#" target="_blank" rel="noopener">Join the Club</a>
+      </div>
+      <div class="qr-wrap">
+        <img src="join-qr.png" alt="QR code to join CSU AI Alliance" />
+        <strong>Scan to Join</strong>
+        <small id="joinUrlText"></small>
+      </div>
+    </section>
+
+    <section class="section" id="team">
+      <p class="eyebrow maroon">Our Team</p>
+      <h2>Student Leaders</h2>
+      <div class="card-grid three" id="teamCards"></div>
+    </section>
+
+    <section class="section soft" id="resources">
+      <p class="eyebrow maroon">Resources</p>
+      <h2>Club Information</h2>
+      <div class="resource-list">
+        <a href="https://www.csuchico.edu/sll/_assets/documents/so-manual-fall-2023.pdf" target="_blank" rel="noopener">Student Organization Handbook ↗</a>
+        <a href="https://www.csuchico.edu/sll/organizations/finance-resourcs.shtml" target="_blank" rel="noopener">Finance Resources ↗</a>
+        <a href="https://calstate.policystat.com/policy/10170470/latest/" target="_blank" rel="noopener">CSU EO1068 ↗</a>
+        <a href="https://www.csuchico.edu/sll/organizations/policies.shtml" target="_blank" rel="noopener">Recognition Procedures ↗</a>
+      </div>
+      <details class="constitution">
+        <summary>View a short constitution summary</summary>
+        <p>
+          The Artificial Intelligence Alliance brings together CSU Chico students interested in AI
+          for learning, collaboration, projects, discussions, and networking. Membership is free.
+          The organization is led by a President and Treasurer, meets at least bi-monthly, and follows
+          Chico State and CSU student organization requirements.
+        </p>
+      </details>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div>
+      <strong>CSU AI Alliance</strong>
+      <p>California State University, Chico</p>
+    </div>
+    <div class="footer-links">
+      <a id="instagramLink" href="#" target="_blank" rel="noopener">Instagram</a>
+      <a id="emailLink" href="#">Email</a>
+    </div>
+    <small>© <span id="year"></span> CSU Artificial Intelligence Alliance</small>
+  </footer>
+
+  <script src="config.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
