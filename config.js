@@ -17,11 +17,11 @@ joinUrl: "https://docs.google.com/forms/d/e/1FAIpQLScqBdEJo5MdnZqH8tfan4lYoo9aua
       role: "President & Founder",
       description: "Leads meetings, represents the organization, and oversees club activities."
     },
-    {
-      name: "Name Here",
-      role: "Treasurer",
-      description: "Manages finances, budgets, and club purchasing."
-    },
+   {
+  name: "Shriya Pusuluri",
+  role: "Treasurer",
+  description: "Manages finances, budgets, and club purchasing."
+  },
     {
       name: "Name Here",
       role: "Faculty Advisor",
