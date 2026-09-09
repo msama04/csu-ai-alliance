@@ -6,7 +6,7 @@ const CLUB_CONFIG = {
   // IMPORTANT:
   // After you publish the website, replace this with your real website URL.
   // Example: "https://yourname.github.io/csu-ai-alliance/#join"
-  joinUrl: "https://example.com/#join",
+joinUrl: "https://docs.google.com/forms/d/e/1FAIpQLScqBdEJo5MdnZqH8tfan4lYoo9auaxLcN36ezt4YUqMB4xNFA/viewform?usp=publish-editor",
 
   instagram: "https://instagram.com/your_instagram",
   email: "yourclub@email.com",
