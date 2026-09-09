@@ -13,7 +13,7 @@ joinUrl: "https://docs.google.com/forms/d/e/1FAIpQLScqBdEJo5MdnZqH8tfan4lYoo9aua
 
   team: [
     {
-      name: "Your Name",
+      name: "Malina Samandar",
       role: "President & Founder",
       description: "Leads meetings, represents the organization, and oversees club activities."
     },
