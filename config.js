@@ -29,27 +29,12 @@ joinUrl: "https://docs.google.com/forms/d/e/1FAIpQLScqBdEJo5MdnZqH8tfan4lYoo9aua
 }
   ],
 
-  events: [
-    {
-      date: "SEP 24",
-      title: "AI Basics Workshop",
-      time: "4:00 PM – 5:30 PM",
-      location: "Chico State",
-      description: "Learn practical ways to use AI tools like ChatGPT and other platforms."
-    },
-    {
-      date: "OCT 15",
-      title: "AI & Your Career",
-      time: "4:00 PM – 5:30 PM",
-      location: "Chico State",
-      description: "Explore how AI is changing industries and what students can do to prepare."
-    },
-    {
-      date: "OCT 29",
-      title: "AI Social / Club Meeting",
-      time: "4:00 PM – 5:30 PM",
-      location: "Chico State",
-      description: "Meet other students interested in AI, share ideas, and hear what is coming up."
-    }
-  ]
-};
+ events: [
+  {
+    date: "COMING SOON",
+    title: "First CSU AI Alliance Meeting",
+    time: "Time TBD",
+    location: "Chico State",
+    description: "Meet the club, learn about upcoming workshops and speakers, and share what you want to see from the CSU AI Alliance."
+  }
+]
