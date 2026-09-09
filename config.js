@@ -22,11 +22,11 @@ joinUrl: "https://docs.google.com/forms/d/e/1FAIpQLScqBdEJo5MdnZqH8tfan4lYoo9aua
   role: "Treasurer",
   description: "Manages finances, budgets, and club purchasing."
   },
-    {
-      name: "Name Here",
-      role: "Faculty Advisor",
-      description: "Provides guidance and support for the organization."
-    }
+   {
+  name: "Sue E Peterson",
+  role: "Faculty Advisor",
+  description: "Provides guidance and support for the organization."
+}
   ],
 
   events: [
