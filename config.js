@@ -9,7 +9,7 @@ const CLUB_CONFIG = {
 joinUrl: "https://docs.google.com/forms/d/e/1FAIpQLScqBdEJo5MdnZqH8tfan4lYoo9auaxLcN36ezt4YUqMB4xNFA/viewform?usp=publish-editor",
 
   instagram: "https://instagram.com/CSU_ai_alliance_",
-  email: "yourclub@email.com",
+ email: "malina07sama@gmail.com",
 
   team: [
     {
