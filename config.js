@@ -8,7 +8,7 @@ const CLUB_CONFIG = {
   // Example: "https://yourname.github.io/csu-ai-alliance/#join"
 joinUrl: "https://docs.google.com/forms/d/e/1FAIpQLScqBdEJo5MdnZqH8tfan4lYoo9auaxLcN36ezt4YUqMB4xNFA/viewform?usp=publish-editor",
 
-  instagram: "https://instagram.com/your_instagram",
+  instagram: "https://instagram.com/CSU_ai_alliance_",
   email: "yourclub@email.com",
 
   team: [
