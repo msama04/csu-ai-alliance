@@ -38,3 +38,4 @@ joinUrl: "https://docs.google.com/forms/d/e/1FAIpQLScqBdEJo5MdnZqH8tfan4lYoo9aua
     description: "Meet the club, learn about upcoming workshops and speakers, and share what you want to see from the CSU AI Alliance."
   }
 ]
+};
